@@ -1,8 +1,8 @@
 <?php
-$servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "zippyusedautos";
+$servername = "thh2lzgakldp794r.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+$username = "qxbwl337s3n8evk7";
+$password = "ww5cb0qkh2wg8xuv";
+$dbname = "ctozpdl8y7s01bqu";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
